@@ -23,7 +23,7 @@
 	float: left;
 	text-align: center;
 	width: 100px;
-	background: #6e8b8e;
+	background: #7f8182;
 	margin-left: 2px
 }
 
@@ -43,5 +43,12 @@
 .box-content ul li a:hover{
 	color: #555;
 	font-weight: bold;
+}
+
+/* 设置网站名称样式  */
+
+
+.page-title{
+	color: #3f736f
 }
 

@@ -1,0 +1,39 @@
+.menu-box-div{
+	padding-top:5px;
+	width: 1000px;
+	/* border: 1px solid red; */
+	background: #d9d7d7;
+}
+.menu-title{
+	margin-left: 50px;
+	margin-top: 20px;
+	border-left: 16px solid #466ee0;
+
+}
+
+.menu-content{
+
+	margin-left: 50px;
+	margin-top: 20px;
+	width: 880px;
+	background: #3f736f;
+
+	/* border: 1px solid red; */
+}
+
+.title{
+	margin-left: 10px;
+	font-weight: bold;
+	padding-top: 10px;
+	color: #e0c646;
+	border-left:20px solid #e0c646;
+}
+
+.title-content{
+	display: block;
+	margin-top: 16px;
+	margin-left: 10px;
+	color: #fff;
+	padding-bottom: 10px;
+}
+
