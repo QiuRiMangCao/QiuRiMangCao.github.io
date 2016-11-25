@@ -1,10 +1,4 @@
 
-body{
-	margin: 0;
-	padding: 0;
-	background: #c7c7c7;
-}
-
 .box-navber{
 	height: 50px;
 	width: 100%;
@@ -12,11 +6,17 @@ body{
 }
 
 .box-content{
+	margin-left: 20px;
+}
 
+.li-active{
+	background: #e0c646;
+	font-weight: bold;
+	text-shadow:2px 2px 5px #222; 
 }
 
 .box-content ul li{
-
+	
 	list-style: none;
 	height: 50px;
 	line-height: 50px;
@@ -28,6 +28,7 @@ body{
 }
 
 .box-content ul li a{
+	margin: 0;
 	text-decoration: none;
 	font-size: 20px;
 	color: white;
